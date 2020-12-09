@@ -1,4 +1,5 @@
-# MIS382N-APM-Final-Project-A8 -- Expedia Hotel Recommendations
+# MIS382N-APM-Final-Project-A8 -- SEO: Search Expedia Optimization
+### Expedia Hotel Recommendations
 
 Pete Davis,
 Andrew Han,
