@@ -1,10 +1,9 @@
-# MIS382N-APM-Final-Project-A8 -- SEO: Search Expedia Optimization
-### Expedia Hotel Recommendations
+# SEO: Search Expedia Optimization--MIS382N Final Project
 
-Pete Davis,
-Andrew Han,
-Steve Sohn,
-Matthew Streichler,
+Pete Davis \
+Andrew Han \
+Steve Sohn \
+Matthew Streichler \
 Dian Zhao
 
 Link to our blog: https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374
